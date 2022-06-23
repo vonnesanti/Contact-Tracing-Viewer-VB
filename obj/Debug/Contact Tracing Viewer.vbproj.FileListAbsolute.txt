@@ -1,0 +1,12 @@
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\bin\Debug\Contact Tracing Viewer.exe.config
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\bin\Debug\Contact Tracing Viewer.exe
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\bin\Debug\Contact Tracing Viewer.pdb
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\bin\Debug\Contact Tracing Viewer.xml
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.vbproj.AssemblyReference.cache
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact_Tracing_Viewer.Form1.resources
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact_Tracing_Viewer.Resources.resources
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.vbproj.GenerateResource.cache
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.exe
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.xml
+C:\Users\fujjitsu\source\repos\Contact Tracing Viewer\obj\Debug\Contact Tracing Viewer.pdb
