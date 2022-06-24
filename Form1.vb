@@ -6,7 +6,12 @@ Public Class Form1
     End Sub
 
     Private Sub openBtn_Click(sender As Object, e As EventArgs) Handles openBtn.Click
+        Dim ofd As OpenFileDialog = New OpenFileDialog()
+        ofd.Filter = "C:\Users\fujjitsu\source\repos\Contact Tracing Form | *.txt"
 
+        If ofd.ShowDialog() = DialogResult.OK Then
+            infoTxtbx.Text = File.ReadAllText(ofd.FileName)
+        End If
     End Sub
 
     Private Sub clearBtn_Click(sender As Object, e As EventArgs) Handles clearBtn.Click
